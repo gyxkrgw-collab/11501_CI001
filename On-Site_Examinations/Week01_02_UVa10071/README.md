@@ -9,7 +9,7 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Back to High School Physics
 - **Problem Link:** [https://onlinejudge.org/external/100/10071.pdf](https://onlinejudge.org/external/100/10071.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
+- **Submission Result:** Accepted
 - **Source Code (Initial/Fail):** [src/UVa10071.cpp](./src/UVa10071.cpp)
 - **Source Code (Final/Accepted):** [src/UVa10071.cpp](./src/UVa10071.cpp)
 - **Review Date:** 

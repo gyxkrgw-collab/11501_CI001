@@ -37,8 +37,8 @@ Each problem folder contains a `README.md` written from the [README template](./
 
 | Week | Folder | Problem | Status |
 |---|---|---|---|
-| 1 | [Week01_01_UVa10055](./On-Site_Examinations/Week01_01_UVa10055/) | [UVa 10055 - Hashmat the Brave Warrior](https://onlinejudge.org/external/100/10055.pdf) | Not yet |
-| 1 | [Week01_02_UVa10071](./On-Site_Examinations/Week01_02_UVa10071/) | [UVa 10071 - Back to High School Physics](https://onlinejudge.org/external/100/10071.pdf) | Not yet |
+| 1 | [Week01_01_UVa10055](./On-Site_Examinations/Week01_01_UVa10055/) | [UVa 10055 - Hashmat the Brave Warrior](https://onlinejudge.org/external/100/10055.pdf) | Accepted |
+| 1 | [Week01_02_UVa10071](./On-Site_Examinations/Week01_02_UVa10071/) | [UVa 10071 - Back to High School Physics](https://onlinejudge.org/external/100/10071.pdf) | Accepted |
 | 2 | [Week02_03_UVa11172](./On-Site_Examinations/Week02_03_UVa11172/) | [UVa 11172 - Relational Operators](https://onlinejudge.org/external/111/11172.pdf) | Not yet |
 | 2 | [Week02_04_UVa11727](./On-Site_Examinations/Week02_04_UVa11727/) | [UVa 11727 - Cost Cutting](https://onlinejudge.org/external/117/11727.pdf) | Not yet |
 | 3 | [Week03_05_UVa11332](./On-Site_Examinations/Week03_05_UVa11332/) | [UVa 11332 - Summing Digits](https://onlinejudge.org/external/113/11332.pdf) | Not yet |

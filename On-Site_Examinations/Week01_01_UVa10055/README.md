@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Hashmat the Brave Warrior
 - **Problem Link:** [https://onlinejudge.org/external/100/10055.pdf](https://onlinejudge.org/external/100/10055.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted
-- **Source Code (Initial/Fail):** [src/UVa10055.cpp](./src/UVa10055.cpp)
+- **Submission Result:** Accepted (in-class version); fixed version to be verified on UVa
+- **Source Code (Initial/Fail):** [src/UVa10055_fail.cpp](./src/UVa10055_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa10055.cpp](./src/UVa10055.cpp)
 - **Review Date:** 
 

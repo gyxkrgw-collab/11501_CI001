@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 int main(){
-   int a,b;
+   long long a,b;
   while(cin>>a>>b){
    if(a-b>0)
    {cout<<a-b<<endl;}
-   else if(a-b<0)
+   else
    {cout<<-(a-b)<<endl;}}
    return 0;
 }

@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Cost Cutting
 - **Problem Link:** [https://onlinejudge.org/external/117/11727.pdf](https://onlinejudge.org/external/117/11727.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
-- **Source Code (Initial/Fail):** [src/UVa11727.cpp](./src/UVa11727.cpp)
+- **Submission Result:** Wrong Answer (first version) → Accepted (final version)
+- **Source Code (Initial/Fail):** [src/UVa11727_fail.cpp](./src/UVa11727_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa11727.cpp](./src/UVa11727.cpp)
 - **Review Date:** 
 

@@ -45,10 +45,10 @@ Each problem folder contains a `README.md` written from the [README template](./
 | 3 | [Week03_06_UVa1225](./On-Site_Examinations/Week03_06_UVa1225/) | [UVa 1225 - Digit Counting](https://onlinejudge.org/external/12/1225.pdf) | In progress (empty in class) |
 | 4 | [Week04_07_UVa11677](./On-Site_Examinations/Week04_07_UVa11677/) | [UVa 11677 - Alarm Clock](https://onlinejudge.org/external/116/11677.pdf) | In progress (WA in class) |
 | 4 | [Week04_08_UVa12468](./On-Site_Examinations/Week04_08_UVa12468/) | [UVa 12468 - Zapping](https://onlinejudge.org/external/124/12468.pdf) | Accepted |
-| 5 | [Week05_09_UVa11461](./On-Site_Examinations/Week05_09_UVa11461/) | [UVa 11461 - Square Numbers](https://onlinejudge.org/external/114/11461.pdf) | Not yet |
-| 5 | [Week05_10_UVa11388](./On-Site_Examinations/Week05_10_UVa11388/) | [UVa 11388 - GCD LCM](https://onlinejudge.org/external/113/11388.pdf) | Not yet |
-| 6 | [Week06_11_UVa11185](./On-Site_Examinations/Week06_11_UVa11185/) | [UVa 11185 - Ternary](https://onlinejudge.org/external/111/11185.pdf) | Not yet |
-| 6 | [Week06_12_UVa10931](./On-Site_Examinations/Week06_12_UVa10931/) | [UVa 10931 - Parity](https://onlinejudge.org/external/109/10931.pdf) | Not yet |
+| 5 | [Week05_09_UVa11461](./On-Site_Examinations/Week05_09_UVa11461/) | [UVa 11461 - Square Numbers](https://onlinejudge.org/external/114/11461.pdf) | Accepted |
+| 5 | [Week05_10_UVa11388](./On-Site_Examinations/Week05_10_UVa11388/) | [UVa 11388 - GCD LCM](https://onlinejudge.org/external/113/11388.pdf) | Not written yet |
+| 6 | [Week06_11_UVa11185](./On-Site_Examinations/Week06_11_UVa11185/) | [UVa 11185 - Ternary](https://onlinejudge.org/external/111/11185.pdf) | In progress (WA in class) |
+| 6 | [Week06_12_UVa10931](./On-Site_Examinations/Week06_12_UVa10931/) | [UVa 10931 - Parity](https://onlinejudge.org/external/109/10931.pdf) | In progress (WA in class) |
 | 7 | [Week07_13_UVa11799](./On-Site_Examinations/Week07_13_UVa11799/) | [UVa 11799 - Horror Dash](https://onlinejudge.org/external/117/11799.pdf) | Not yet |
 | 7 | [Week07_14_UVa11364](./On-Site_Examinations/Week07_14_UVa11364/) | [UVa 11364 - Optimal Parking](https://onlinejudge.org/external/113/11364.pdf) | Not yet |
 | 9 | [Week09_15_UVa494](./On-Site_Examinations/Week09_15_UVa494/) | [UVa 494 - Kindergarten Counting Game](https://onlinejudge.org/external/4/494.pdf) | Not yet |

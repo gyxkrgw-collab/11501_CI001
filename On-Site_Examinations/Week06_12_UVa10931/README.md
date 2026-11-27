@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Parity
 - **Problem Link:** [https://onlinejudge.org/external/109/10931.pdf](https://onlinejudge.org/external/109/10931.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
-- **Source Code (Initial/Fail):** [src/UVa10931.cpp](./src/UVa10931.cpp)
+- **Submission Result:** Wrong Answer (in class) — fix in progress
+- **Source Code (Initial/Fail):** [src/UVa10931_fail.cpp](./src/UVa10931_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa10931.cpp](./src/UVa10931.cpp)
 - **Review Date:** 
 

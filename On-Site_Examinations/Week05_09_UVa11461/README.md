@@ -9,7 +9,7 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Square Numbers
 - **Problem Link:** [https://onlinejudge.org/external/114/11461.pdf](https://onlinejudge.org/external/114/11461.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
+- **Submission Result:** Accepted (course online judge)
 - **Source Code (Initial/Fail):** [src/UVa11461.cpp](./src/UVa11461.cpp)
 - **Source Code (Final/Accepted):** [src/UVa11461.cpp](./src/UVa11461.cpp)
 - **Review Date:** 

@@ -49,10 +49,10 @@ Each problem folder contains a `README.md` written from the [README template](./
 | 5 | [Week05_10_UVa11388](./On-Site_Examinations/Week05_10_UVa11388/) | [UVa 11388 - GCD LCM](https://onlinejudge.org/external/113/11388.pdf) | Not written yet |
 | 6 | [Week06_11_UVa11185](./On-Site_Examinations/Week06_11_UVa11185/) | [UVa 11185 - Ternary](https://onlinejudge.org/external/111/11185.pdf) | In progress (WA in class) |
 | 6 | [Week06_12_UVa10931](./On-Site_Examinations/Week06_12_UVa10931/) | [UVa 10931 - Parity](https://onlinejudge.org/external/109/10931.pdf) | In progress (WA in class) |
-| 7 | [Week07_13_UVa11799](./On-Site_Examinations/Week07_13_UVa11799/) | [UVa 11799 - Horror Dash](https://onlinejudge.org/external/117/11799.pdf) | Not yet |
-| 7 | [Week07_14_UVa11364](./On-Site_Examinations/Week07_14_UVa11364/) | [UVa 11364 - Optimal Parking](https://onlinejudge.org/external/113/11364.pdf) | Not yet |
-| 9 | [Week09_15_UVa494](./On-Site_Examinations/Week09_15_UVa494/) | [UVa 494 - Kindergarten Counting Game](https://onlinejudge.org/external/4/494.pdf) | Not yet |
-| 9 | [Week09_16_UVa10008](./On-Site_Examinations/Week09_16_UVa10008/) | [UVa 10008 - What's Cryptanalysis?](https://onlinejudge.org/external/100/10008.pdf) | Not yet |
+| 7 | [Week07_13_UVa11799](./On-Site_Examinations/Week07_13_UVa11799/) | [UVa 11799 - Horror Dash](https://onlinejudge.org/external/117/11799.pdf) | Accepted |
+| 7 | [Week07_14_UVa11364](./On-Site_Examinations/Week07_14_UVa11364/) | [UVa 11364 - Optimal Parking](https://onlinejudge.org/external/113/11364.pdf) | Accepted |
+| 9 | [Week09_15_UVa494](./On-Site_Examinations/Week09_15_UVa494/) | [UVa 494 - Kindergarten Counting Game](https://onlinejudge.org/external/4/494.pdf) | In progress (WA in class) |
+| 9 | [Week09_16_UVa10008](./On-Site_Examinations/Week09_16_UVa10008/) | [UVa 10008 - What's Cryptanalysis?](https://onlinejudge.org/external/100/10008.pdf) | Not written yet |
 | 10 | [Week10_17_UVa458](./On-Site_Examinations/Week10_17_UVa458/) | [UVa 458 - The Decoder](https://onlinejudge.org/external/4/458.pdf) | Not yet |
 | 10 | [Week10_18_UVa272](./On-Site_Examinations/Week10_18_UVa272/) | [UVa 272 - TeX Quotes](https://onlinejudge.org/external/2/272.pdf) | Not yet |
 | 11 | [Week11_19_UVa10282](./On-Site_Examinations/Week11_19_UVa10282/) | [UVa 10282 - BabelFish](https://onlinejudge.org/external/102/10282.pdf) | Not yet |

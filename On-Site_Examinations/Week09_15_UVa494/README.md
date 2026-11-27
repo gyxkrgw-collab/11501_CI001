@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Kindergarten Counting Game
 - **Problem Link:** [https://onlinejudge.org/external/4/494.pdf](https://onlinejudge.org/external/4/494.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
-- **Source Code (Initial/Fail):** [src/UVa494.cpp](./src/UVa494.cpp)
+- **Submission Result:** Wrong Answer (in class) — fix in progress
+- **Source Code (Initial/Fail):** [src/UVa494_fail.cpp](./src/UVa494_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa494.cpp](./src/UVa494.cpp)
 - **Review Date:** 
 

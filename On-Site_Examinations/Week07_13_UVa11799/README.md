@@ -9,7 +9,7 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Horror Dash
 - **Problem Link:** [https://onlinejudge.org/external/117/11799.pdf](https://onlinejudge.org/external/117/11799.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
+- **Submission Result:** Accepted (course online judge)
 - **Source Code (Initial/Fail):** [src/UVa11799.cpp](./src/UVa11799.cpp)
 - **Source Code (Final/Accepted):** [src/UVa11799.cpp](./src/UVa11799.cpp)
 - **Review Date:** 

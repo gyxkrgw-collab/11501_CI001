@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** BabelFish
 - **Problem Link:** [https://onlinejudge.org/external/102/10282.pdf](https://onlinejudge.org/external/102/10282.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
-- **Source Code (Initial/Fail):** [src/UVa10282.cpp](./src/UVa10282.cpp)
+- **Submission Result:** Incomplete — a placeholder program was submitted in class for attendance; the correct solution is in progress
+- **Source Code (Initial/Fail):** [src/UVa10282_fail.cpp](./src/UVa10282_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa10282.cpp](./src/UVa10282.cpp)
 - **Review Date:** 
 
@@ -65,21 +65,19 @@ Show the relevant code that failed first, then show the corrected version. If th
 ### Fail Code
 
 ```cpp
-#include <bits/stdc++.h>
-
+#include <iostream>
 using namespace std;
-
-// Paste the incorrect, incomplete, or rejected version here.
-
-int main() {
-    return 0;
-}
+int main(){cout<<"C++";};
 ```
 
 **Why it failed:**
 
-- State the direct technical cause (for example: incorrect condition, missing boundary case, or invalid complexity).
-- Identify the input or scenario that exposes the problem.
+- This version is not an attempt at the problem. It was submitted in class as a placeholder for attendance because I could not solve the problem during the exam.
+- It does not read any input and always prints `C++`, so it fails on every test case, including the sample input (expected output: `cat`, `eh`, `loops`).
+- What was missing:
+  - Reading the dictionary entries (`English word` + `foreign word` per line) until a blank line.
+  - Storing each foreign word → English word pair in a lookup structure (for example, `map<string, string>`).
+  - Reading the remaining foreign words until end of input and printing the matching English word, or `eh` if the word is not in the dictionary.
 
 ### Correct Code
 

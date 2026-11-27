@@ -55,7 +55,7 @@ Each problem folder contains a `README.md` written from the [README template](./
 | 9 | [Week09_16_UVa10008](./On-Site_Examinations/Week09_16_UVa10008/) | [UVa 10008 - What's Cryptanalysis?](https://onlinejudge.org/external/100/10008.pdf) | Not written yet |
 | 10 | [Week10_17_UVa458](./On-Site_Examinations/Week10_17_UVa458/) | [UVa 458 - The Decoder](https://onlinejudge.org/external/4/458.pdf) | In progress (WA in class) |
 | 10 | [Week10_18_UVa272](./On-Site_Examinations/Week10_18_UVa272/) | [UVa 272 - TeX Quotes](https://onlinejudge.org/external/2/272.pdf) | In progress (incomplete in class) |
-| 11 | [Week11_19_UVa10282](./On-Site_Examinations/Week11_19_UVa10282/) | [UVa 10282 - BabelFish](https://onlinejudge.org/external/102/10282.pdf) | Not yet |
+| 11 | [Week11_19_UVa10282](./On-Site_Examinations/Week11_19_UVa10282/) | [UVa 10282 - BabelFish](https://onlinejudge.org/external/102/10282.pdf) | In progress (placeholder in class) |
 | 11 | [Week11_20_UVa496](./On-Site_Examinations/Week11_20_UVa496/) | [UVa 496 - Simply Subsets](https://onlinejudge.org/external/4/496.pdf) | Not yet |
 | 12 | [Week12_21_UVa11875](./On-Site_Examinations/Week12_21_UVa11875/) | [UVa 11875 - Brick Game](https://onlinejudge.org/external/118/11875.pdf) | Not yet |
 | 12 | [Week12_22_UVa11942](./On-Site_Examinations/Week12_22_UVa11942/) | [UVa 11942 - Lumberjack Sequencing](https://onlinejudge.org/external/119/11942.pdf) | Not yet |

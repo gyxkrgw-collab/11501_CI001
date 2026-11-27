@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Alarm Clock
 - **Problem Link:** [https://onlinejudge.org/external/116/11677.pdf](https://onlinejudge.org/external/116/11677.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
-- **Source Code (Initial/Fail):** [src/UVa11677.cpp](./src/UVa11677.cpp)
+- **Submission Result:** Wrong Answer (in class) — fix in progress
+- **Source Code (Initial/Fail):** [src/UVa11677_fail.cpp](./src/UVa11677_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa11677.cpp](./src/UVa11677.cpp)
 - **Review Date:** 
 

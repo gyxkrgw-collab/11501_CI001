@@ -9,7 +9,7 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** Zapping
 - **Problem Link:** [https://onlinejudge.org/external/124/12468.pdf](https://onlinejudge.org/external/124/12468.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
+- **Submission Result:** Accepted (course online judge)
 - **Source Code (Initial/Fail):** [src/UVa12468.cpp](./src/UVa12468.cpp)
 - **Source Code (Final/Accepted):** [src/UVa12468.cpp](./src/UVa12468.cpp)
 - **Review Date:** 

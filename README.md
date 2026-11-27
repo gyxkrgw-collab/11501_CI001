@@ -43,8 +43,8 @@ Each problem folder contains a `README.md` written from the [README template](./
 | 2 | [Week02_04_UVa11727](./On-Site_Examinations/Week02_04_UVa11727/) | [UVa 11727 - Cost Cutting](https://onlinejudge.org/external/117/11727.pdf) | Accepted (after WA) |
 | 3 | [Week03_05_UVa11332](./On-Site_Examinations/Week03_05_UVa11332/) | [UVa 11332 - Summing Digits](https://onlinejudge.org/external/113/11332.pdf) | Accepted |
 | 3 | [Week03_06_UVa1225](./On-Site_Examinations/Week03_06_UVa1225/) | [UVa 1225 - Digit Counting](https://onlinejudge.org/external/12/1225.pdf) | In progress (empty in class) |
-| 4 | [Week04_07_UVa11677](./On-Site_Examinations/Week04_07_UVa11677/) | [UVa 11677 - Alarm Clock](https://onlinejudge.org/external/116/11677.pdf) | Not yet |
-| 4 | [Week04_08_UVa12468](./On-Site_Examinations/Week04_08_UVa12468/) | [UVa 12468 - Zapping](https://onlinejudge.org/external/124/12468.pdf) | Not yet |
+| 4 | [Week04_07_UVa11677](./On-Site_Examinations/Week04_07_UVa11677/) | [UVa 11677 - Alarm Clock](https://onlinejudge.org/external/116/11677.pdf) | In progress (WA in class) |
+| 4 | [Week04_08_UVa12468](./On-Site_Examinations/Week04_08_UVa12468/) | [UVa 12468 - Zapping](https://onlinejudge.org/external/124/12468.pdf) | Accepted |
 | 5 | [Week05_09_UVa11461](./On-Site_Examinations/Week05_09_UVa11461/) | [UVa 11461 - Square Numbers](https://onlinejudge.org/external/114/11461.pdf) | Not yet |
 | 5 | [Week05_10_UVa11388](./On-Site_Examinations/Week05_10_UVa11388/) | [UVa 11388 - GCD LCM](https://onlinejudge.org/external/113/11388.pdf) | Not yet |
 | 6 | [Week06_11_UVa11185](./On-Site_Examinations/Week06_11_UVa11185/) | [UVa 11185 - Ternary](https://onlinejudge.org/external/111/11185.pdf) | Not yet |

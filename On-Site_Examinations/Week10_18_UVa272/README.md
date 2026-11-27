@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** TeX Quotes
 - **Problem Link:** [https://onlinejudge.org/external/2/272.pdf](https://onlinejudge.org/external/2/272.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
-- **Source Code (Initial/Fail):** [src/UVa272.cpp](./src/UVa272.cpp)
+- **Submission Result:** Incomplete (in class) — fix in progress
+- **Source Code (Initial/Fail):** [src/UVa272_fail.cpp](./src/UVa272_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa272.cpp](./src/UVa272.cpp)
 - **Review Date:** 
 

@@ -9,8 +9,8 @@ Use this template to document your problem-solving process and identify concrete
 - **Problem Title:** The Decoder
 - **Problem Link:** [https://onlinejudge.org/external/4/458.pdf](https://onlinejudge.org/external/4/458.pdf)
 - **Language / Version:** C++17
-- **Submission Result:** Accepted / Wrong Answer / Time Limit Exceeded / Runtime Error / Other
-- **Source Code (Initial/Fail):** [src/UVa458.cpp](./src/UVa458.cpp)
+- **Submission Result:** Wrong Answer (in class) — fix in progress
+- **Source Code (Initial/Fail):** [src/UVa458_fail.cpp](./src/UVa458_fail.cpp)
 - **Source Code (Final/Accepted):** [src/UVa458.cpp](./src/UVa458.cpp)
 - **Review Date:** 
 
